@@ -1,0 +1,19 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–×—ÿÿÿÿÿ
+m
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'Predicate<String>'(ËáÌè
+V	java:S125"<This block of commented-out lines of code should be removed.(±—Èüÿÿÿÿ
+2
+java:S1116"Remove this empty statement.(ËáÌè
+@	java:S106"+Replace this use of System.out by a logger.(ãª¹é
+@	java:S106"+Replace this use of System.out by a logger.(•çÉâ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¯åù
+E	java:S106"+Replace this use of System.out by a logger.(û‘Ÿ¯ıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(†·§ÿÿÿÿÿ
+v
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(µ›×íûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Œ¤ÿû
+E	java:S106"+Replace this use of System.out by a logger.(Â•”¦üÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(†·§ÿÿÿÿÿ
+E	java:S106""+Replace this use of System.out by a logger.(áœó‰ûÿÿÿÿ
+?	java:S106%"+Replace this use of System.out by a logger.(ØÉë
